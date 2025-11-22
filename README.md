@@ -162,12 +162,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
-### Led off:
-![circuit-1](https://github.com/user-attachments/assets/f56ee4cf-0a6a-4b0e-94c3-2c605bef140e)
+### With Blinbking after prussing the Buttton
+<img width="694" height="925" alt="image" src="https://github.com/user-attachments/assets/2434e75f-1949-43a0-9099-f9beb9a8e1ac" />
 
 
-### Led on:
-![WhatsApp Image 2025-10-15 at 08 51 29_d82e7407](https://github.com/user-attachments/assets/91e675fd-281d-4d59-b107-c476bdc56f06)
+
+### Without Blinking
+<img width="681" height="962" alt="image" src="https://github.com/user-attachments/assets/9f792194-bd81-41cc-a2a4-d88b6f446139" />
+
 
  
 ## Result :
